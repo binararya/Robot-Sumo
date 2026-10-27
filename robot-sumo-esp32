@@ -1,7 +1,2 @@
-robot-sumo-esp32/
-   git init
-   git add .
-   git commit -m "Initial commit: robot sumo semi-otonom ESP32 + PS4"
-   git branch -M main
-   git remote add origin https://github.com/USERNAME/robot-sumo-esp32.git
-   git push -u origin main
+robot-sumo-esp32/file.txt
+
